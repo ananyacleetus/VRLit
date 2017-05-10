@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRLit", "VRLit.csproj", "{D4954664-EAAE-7EA0-D878-2775D1C80FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRLit.Editor", "VRLit.Editor.csproj", "{711CF393-DECA-AAEF-A920-F17DAE8D8DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4954664-EAAE-7EA0-D878-2775D1C80FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4954664-EAAE-7EA0-D878-2775D1C80FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4954664-EAAE-7EA0-D878-2775D1C80FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4954664-EAAE-7EA0-D878-2775D1C80FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{711CF393-DECA-AAEF-A920-F17DAE8D8DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711CF393-DECA-AAEF-A920-F17DAE8D8DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711CF393-DECA-AAEF-A920-F17DAE8D8DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711CF393-DECA-AAEF-A920-F17DAE8D8DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
