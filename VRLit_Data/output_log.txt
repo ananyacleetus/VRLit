@@ -19,18 +19,18 @@ Platform assembly: C:\Users\blim7\Documents\VRLit\VRLit_Data\Managed\UnityEngine
 Loading C:\Users\blim7\Documents\VRLit\VRLit_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\blim7\Documents\VRLit\VRLit_Data\Managed\UnityEngine.VR.dll (this message is harmless)
 Loading C:\Users\blim7\Documents\VRLit\VRLit_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
-- Completed reload, in  0.023 seconds
+- Completed reload, in  0.099 seconds
 Platform assembly: C:\Users\blim7\Documents\VRLit\VRLit_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\blim7\Documents\VRLit\VRLit_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 32.385239 ms
+UnloadTime: 1.070065 ms
 Unity v5.5.2f1, Oculus Utilities v1.11.0, OVRPlugin v1.11.0, SDK v1.14.0.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 39d0 -> priority: 1 
-  Thread -> id: 31f4 -> priority: 1 
+  Thread -> id: 41a0 -> priority: 1 
+  Thread -> id: 1740 -> priority: 1 
